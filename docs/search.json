@@ -1,5 +1,82 @@
 [
   {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Pour les participants",
+    "section": "",
+    "text": "Contribuez à la recherche en participant à des études sérieuses, menées par des universités reconnues.\n\n\n\nAidez la science à progresser\n\nExpériences enrichissantes et accessibles\n\nPossibilité de recevoir une compensation (variable selon l’étude)\n\n\n\n\n\nCréez un profil en quelques clics\n\nIndiquez vos préférences et disponibilités\n\nRecevez des invitations correspondant à votre profil\n\nChoisissez les études qui vous intéressent\n\n\n\n\nNous ne collectons aucune donnée personnelle sensible. Vous serez redirigé vers des plateformes sécurisées gérées par les chercheurs."
+  },
+  {
+    "objectID": "participants.html#pourquoi-participer",
+    "href": "participants.html#pourquoi-participer",
+    "title": "Pour les participants",
+    "section": "",
+    "text": "Aidez la science à progresser\n\nExpériences enrichissantes et accessibles\n\nPossibilité de recevoir une compensation (variable selon l’étude)"
+  },
+  {
+    "objectID": "participants.html#comment-ça-fonctionne",
+    "href": "participants.html#comment-ça-fonctionne",
+    "title": "Pour les participants",
+    "section": "",
+    "text": "Créez un profil en quelques clics\n\nIndiquez vos préférences et disponibilités\n\nRecevez des invitations correspondant à votre profil\n\nChoisissez les études qui vous intéressent"
+  },
+  {
+    "objectID": "participants.html#vos-données-sont-importantes",
+    "href": "participants.html#vos-données-sont-importantes",
+    "title": "Pour les participants",
+    "section": "",
+    "text": "Nous ne collectons aucune donnée personnelle sensible. Vous serez redirigé vers des plateformes sécurisées gérées par les chercheurs."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Vous avez des questions, des suggestions ou souhaitez proposer une collaboration ?\n\n\n\nCourriel : contact@participeplus.ca\n\n\n\n\n\nLinkedIn (bientôt)\n\nInfolettre (en préparation)"
+  },
+  {
+    "objectID": "contact.html#nous-joindre",
+    "href": "contact.html#nous-joindre",
+    "title": "Contact",
+    "section": "",
+    "text": "Courriel : contact@participeplus.ca"
+  },
+  {
+    "objectID": "contact.html#suivez-nous",
+    "href": "contact.html#suivez-nous",
+    "title": "Contact",
+    "section": "",
+    "text": "LinkedIn (bientôt)\n\nInfolettre (en préparation)"
+  },
+  {
+    "objectID": "apropos.html",
+    "href": "apropos.html",
+    "title": "À propos",
+    "section": "",
+    "text": "Participe+ est une initiative privée née d’un constat simple : trop de chercheurs peinent à recruter, et trop de citoyens aimeraient contribuer à la science sans savoir comment.\n\n\nMettre en relation les chercheurs et les citoyens autour de projets de recherche éthiques, utiles et accessibles.\n\n\n\n\nAccessibilité\nTransparence\nScience citoyenne\nNeutralité éthique (aucune collecte de données sensibles)\n\n\n\n\nNous prévoyons offrir des outils de feedback, des guides et des activités de mobilisation autour de la recherche participative."
+  },
+  {
+    "objectID": "apropos.html#notre-mission",
+    "href": "apropos.html#notre-mission",
+    "title": "À propos",
+    "section": "",
+    "text": "Mettre en relation les chercheurs et les citoyens autour de projets de recherche éthiques, utiles et accessibles."
+  },
+  {
+    "objectID": "apropos.html#nos-valeurs",
+    "href": "apropos.html#nos-valeurs",
+    "title": "À propos",
+    "section": "",
+    "text": "Accessibilité\nTransparence\nScience citoyenne\nNeutralité éthique (aucune collecte de données sensibles)"
+  },
+  {
+    "objectID": "apropos.html#une-plateforme-ouverte-bientôt-collaborative",
+    "href": "apropos.html#une-plateforme-ouverte-bientôt-collaborative",
+    "title": "À propos",
+    "section": "",
+    "text": "Nous prévoyons offrir des outils de feedback, des guides et des activités de mobilisation autour de la recherche participative."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,10 +84,59 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "chercheurs.html",
+    "href": "chercheurs.html",
+    "title": "Pour les chercheurs",
+    "section": "",
+    "text": "Vous avez une étude en cours et vous souhaitez recruter des participants ? Participe+ simplifie le processus.\n\n\n\nAccédez à une base volontaire de participants motivés\nAucune gestion de données sensibles par la plateforme\nIdéal pour les études en ligne, qualitatives ou quantitatives\nPlateforme en français, pensée pour les réalités universitaires du Québec\n\n\n\n\n\nCréez un compte\n\nRenseignez les critères d’inclusion et ajoutez un lien vers votre formulaire externe (REDCap, LimeSurvey, etc.)\n\nChoisissez vos filtres de diffusion (région, groupe d’âge, etc.)\n\nPayez pour la mise en ligne de votre projet (tarification abordable)\n\n\n\n\nVous souhaitez tester gratuitement la plateforme lors de son lancement ? Contactez-nous."
+  },
+  {
+    "objectID": "chercheurs.html#pourquoi-utiliser-participe",
+    "href": "chercheurs.html#pourquoi-utiliser-participe",
+    "title": "Pour les chercheurs",
+    "section": "",
+    "text": "Accédez à une base volontaire de participants motivés\nAucune gestion de données sensibles par la plateforme\nIdéal pour les études en ligne, qualitatives ou quantitatives\nPlateforme en français, pensée pour les réalités universitaires du Québec"
+  },
+  {
+    "objectID": "chercheurs.html#comment-publier-une-étude",
+    "href": "chercheurs.html#comment-publier-une-étude",
+    "title": "Pour les chercheurs",
+    "section": "",
+    "text": "Créez un compte\n\nRenseignez les critères d’inclusion et ajoutez un lien vers votre formulaire externe (REDCap, LimeSurvey, etc.)\n\nChoisissez vos filtres de diffusion (région, groupe d’âge, etc.)\n\nPayez pour la mise en ligne de votre projet (tarification abordable)"
+  },
+  {
+    "objectID": "chercheurs.html#participez-au-projet-pilote",
+    "href": "chercheurs.html#participez-au-projet-pilote",
+    "title": "Pour les chercheurs",
+    "section": "",
+    "text": "Vous souhaitez tester gratuitement la plateforme lors de son lancement ? Contactez-nous."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "particip",
+    "title": "Accueil | Plateforme de recherche en psychologie",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Une plateforme qui connecte les chercheurs en psychologie avec des participants motivés, en toute simplicité.\n\n\n\n\n\n\nNote\n\n\n\nTu es chercheur·e ? Publie ton étude, filtre des profils, et reçois des inscriptions directement. Découvrir les options.\nTu veux participer à des études ? Crée un profil et reçois des invitations pour contribuer à l’avancement des sciences sociales. En savoir plus.\n\n\n\n\n\nPlateforme francophone et locale, pensée pour le Québec\n\nGratuite pour les participant·es\n\nFacile à utiliser pour les chercheur·es\n\nRespect des normes éthiques (aucune donnée personnelle hébergée)\n\n\n\n\n\nLancement de la version bêta de l’application en ligne (été 2025)\n\nRecrutement de projets pilotes\n\nCréation d’une communauté engagée autour de la recherche participative\n\n\n\n\nVous pouvez nous écrire à : contact@participeplus.ca"
+  },
+  {
+    "objectID": "index.html#pourquoi-participe",
+    "href": "index.html#pourquoi-participe",
+    "title": "Accueil | Plateforme de recherche en psychologie",
+    "section": "",
+    "text": "Plateforme francophone et locale, pensée pour le Québec\n\nGratuite pour les participant·es\n\nFacile à utiliser pour les chercheur·es\n\nRespect des normes éthiques (aucune donnée personnelle hébergée)"
+  },
+  {
+    "objectID": "index.html#étapes-à-venir",
+    "href": "index.html#étapes-à-venir",
+    "title": "Accueil | Plateforme de recherche en psychologie",
+    "section": "",
+    "text": "Lancement de la version bêta de l’application en ligne (été 2025)\n\nRecrutement de projets pilotes\n\nCréation d’une communauté engagée autour de la recherche participative"
+  },
+  {
+    "objectID": "index.html#nous-contacter",
+    "href": "index.html#nous-contacter",
+    "title": "Accueil | Plateforme de recherche en psychologie",
+    "section": "",
+    "text": "Vous pouvez nous écrire à : contact@participeplus.ca"
   }
 ]

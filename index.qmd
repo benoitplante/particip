@@ -1,11 +1,32 @@
 ---
-title: "particip"
+title: "Accueil | Plateforme de recherche en psychologie"
+format: html
+lang: fr
 ---
 
-This is a Quarto website.
+# Bienvenue sur Participe+
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Une plateforme qui connecte les chercheurs en psychologie avec des participants motivés, en toute simplicité.
 
-```{r}
-1 + 1
-```
+::: {.callout-note}
+**Tu es chercheur·e ?** Publie ton étude, filtre des profils, et reçois des inscriptions directement. [Découvrir les options](chercheurs.qmd).
+
+**Tu veux participer à des études ?** Crée un profil et reçois des invitations pour contribuer à l’avancement des sciences sociales. [En savoir plus](participants.qmd).
+:::
+
+## Pourquoi Participe+ ?
+
+- Plateforme **francophone et locale**, pensée pour le Québec  
+- **Gratuite** pour les participant·es  
+- Facile à utiliser pour les chercheur·es  
+- Respect des normes éthiques (aucune donnée personnelle hébergée)
+
+## Étapes à venir
+
+1. Lancement de la version bêta de l’application en ligne (été 2025)  
+2. Recrutement de projets pilotes  
+3. Création d’une communauté engagée autour de la recherche participative
+
+## Nous contacter
+
+Vous pouvez nous écrire à : [contact@participeplus.ca](mailto:contact@participeplus.ca)

@@ -1,3 +1,23 @@
 ---
-title: "chercheurs"
+title: "Pour les chercheurs"
+format: html
 ---
+
+# Pour les chercheurs
+
+Vous avez une étude en cours et vous souhaitez recruter des participants ? Participe+ simplifie le processus.
+
+## Pourquoi utiliser Participe+ ?
+- Accédez à une base volontaire de participants motivés
+- Aucune gestion de données sensibles par la plateforme
+- Idéal pour les études en ligne, qualitatives ou quantitatives
+- Plateforme en français, pensée pour les réalités universitaires du Québec
+
+## Comment publier une étude ?
+1. Créez un compte  
+2. Renseignez les critères d'inclusion et ajoutez un lien vers votre formulaire externe (REDCap, LimeSurvey, etc.)  
+3. Choisissez vos filtres de diffusion (région, groupe d'âge, etc.)  
+4. Payez pour la mise en ligne de votre projet (tarification abordable)
+
+## Participez au projet pilote
+Vous souhaitez tester gratuitement la plateforme lors de son lancement ? [Contactez-nous](contact.qmd).

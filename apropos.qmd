@@ -1,3 +1,20 @@
 ---
-title: "A propos"
+title: "À propos"
+format: html
 ---
+
+# À propos de Participe+
+
+Participe+ est une initiative privée née d’un constat simple : trop de chercheurs peinent à recruter, et trop de citoyens aimeraient contribuer à la science sans savoir comment.
+
+## Notre mission
+Mettre en relation les chercheurs et les citoyens autour de projets de recherche éthiques, utiles et accessibles.
+
+## Nos valeurs
+- **Accessibilité**
+- **Transparence**
+- **Science citoyenne**
+- **Neutralité éthique** (aucune collecte de données sensibles)
+
+## Une plateforme ouverte, bientôt collaborative
+Nous prévoyons offrir des outils de feedback, des guides et des activités de mobilisation autour de la recherche participative.
